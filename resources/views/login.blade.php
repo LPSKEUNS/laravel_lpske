@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2> Rudianto</h2>
+    <h2>Siregar Rudianto</h2>
 </body>
 </html>
