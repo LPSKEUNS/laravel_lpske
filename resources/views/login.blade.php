@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Rudi AGUS </h2>
+    <h2> Rudianto</h2>
 </body>
 </html>
